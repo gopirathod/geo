@@ -1,6 +1,6 @@
 {
-  "short_name": "Notepad",
-  "name": "Notepad",
+  "short_name": "geo",
+  "name": "Geo Pad",
   "description": "An offline-capable, quick, and distraction-free Notepad",
   "display": "standalone",
   "icons": [
