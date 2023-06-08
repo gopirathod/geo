@@ -42,7 +42,7 @@
   "background_color": "#EEEEEE",
   "url_handlers": [
     {
-      "origin": "https://notepad.js.org"
+      "origin": "https://geo.js.org"
     }
   ]
 }
